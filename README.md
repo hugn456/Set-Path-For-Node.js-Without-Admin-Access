@@ -4,7 +4,7 @@
 + Go to this link https://nodejs.org/en/download/ to download the binary Node.js.
 ![image](https://user-images.githubusercontent.com/90328373/177261672-452bd4d5-4f89-4b7f-9bb3-345f3b8a288b.png)
 
-**2) Set the Path for that binary Node.js*
+**2) Set the Path for that binary Node.js**
 
 + After downloading and unzipping the Node.js, go to its main directory.
 
